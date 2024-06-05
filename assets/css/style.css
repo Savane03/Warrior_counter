@@ -1,0 +1,31 @@
+body{
+    background-color: #1B1B1B;
+}
+.display-num{
+    display: flex;
+    justify-content: center;
+}
+.numero{
+    font-size: 100px;
+    font-family: "Pixelify Sans", sans-serif;
+    display: flex;
+    justify-content: center;
+    color: rgb(106, 255, 0);
+}
+.resetImg{
+   width: 120px;
+   cursor: pointer;
+     
+}
+.plus{
+    color: rgb(0, 255, 0);
+    cursor: pointer;
+    display: flex;
+    justify-content: start;
+}
+.minus{
+    color: rgb(255, 0, 0);
+    cursor: pointer;
+    display: flex;
+    justify-content: end;
+}
